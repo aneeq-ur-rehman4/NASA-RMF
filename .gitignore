@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+body{background-image:url("file:///C:/Users/jauhar%20pc/Downloads/nepal.png");}
+</style>
+</head>
+<a href="file:///C:/Users/jauhar%20pc/Desktop/html%20pages/nepal%20html.htm"><img src="file:///C:/Users/jauhar%20pc/Downloads/nepal%20lan.jpg"></a>
+</html>
+<!DOCTYPE html>
+<html>
+<head><title>NEPAL DISATER MAP HTML</title>
+<style type="text/css">
+body{background-image:url("file:///C:/Users/jauhar%20pc/Downloads/nepal.png");}
+#s1{margin-left:313px;margin-top:59px;font-size:10pt;
+color:#ffffff;}
+#s2{margin-top:217.5px;margin-left:153px;font-size:10pt;
+color:#ffffff}
+#s3{margin-top:246;font-size:10pt;margin-left:387px;
+color:#ffffff;}
+#s4{margin-left:364px;margin-top:28px;font-size:10pt;
+color:#ffffff;}
+#s5{margin-left:126.5px;margin-top:106.5px; color:#ffffff;font-size:10pt;}
+#nep1{text-decoration:none;}
+</style>
+</head>
+<body>
+<a id="nep1" href="file:///C:/Users/jauhar%20pc/Desktop/html%20pages/nepal%20earth.html"><div id="s1">Landslide</div></a>
+<div id="s2">Landslide</div>
+<div id="s3">Landslide</div>
+<div id="s4">Landslide</div>
+<div id="s5">Landslide</div>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html>
+<style type="text/css">
+#g{color:blue;font-size:72pt; margin-left:3.4em;}
+#o{color:red;font-size:72pt;}
+#o2{color:yellow;font-size:72pt;}
+#g2{color:blue;font-size:72pt;}
+#l{color:green;font-size:72pt;}
+#e{color:red;font-size:72pt;}
+#input{line-height:300%; margin-left:19em;}
+input.c1{line-height:250%; margin-left:27em; margin-top:2em;margin-bottom:1em;}
+input.c2{line-height:250%; margin-top:2em; margin-left:1em; margin-bottom:1em;}
+#b1{color:#0000ff; margin-left:1em;}
+#b2{color:#0000ff; margin-left:1em;}
+#down{margin-left:21.5em;}
+footer{color:#0000ff; background-color:yellow; margin-top:2em;}
+#mn{font-size:36pt; margin-left:2em;}
+#mgp{font-size:24; margin-left:4.5em;}
+</style>
+<head><span id="g">G</span><span id="o">o</span><span id="o2">o</span><span id="g2">g</span><span id="l">l</span><span id="e">e</span>
+<script type="text/javascript">
+function my(){
+var search = document.getElementById("input").value;
+if(search == "nepal" )
+{
+	//HERE WE PUT THE REFERNCE TO NEPAL WEBPAGE
+	window.location.href('file:///C:/Users/jauhar%20pc/Desktop/html%20pages/nepal%20html.htm');
+}
+//HERE WE PUT THE REFERNCE TO JAPAN WEBPAGE
+else if(search=="japan")
+{
+	window.location.href('')
+}
+else {
+	alert("DEAR USER PLEASE ENTER A VALID QUERY");			
+}
+}
+</script>
+<head>
+<a id="nust">NUST</a>
+<body>
+<p id="get"></p>
+<div><input id="input" type="text" size="75"></text></div>
+<input class="c1" type="button" value="Uoogle Search" id="search" onclick="my()"/>
+<input class="c2" type="button" value="I'm Feeling Lucky"/>
+<div><span id="down">Uoogle.com.pk offered in :<span id="b1">Urdu</span><span id="b2">Punjabi</span></span></div>
+</body>
+<footer>
+<span id="mgp">	RM-F</span>
+<div id="mn">MADE BY RM-F TEAM</div>
+</footer>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head><title>JAPAN EARTHQUAKES</title>
+<style type="text/css">
+body{background-image:url("file:///C:/Users/jauhar%20pc/Downloads/japan.png");}
+#s1{font-size:9pt; margin-top:244.5px; margin-left:279.2px;}
+#s2{font-size:9pt;margin-top:98px;margin-left:200px;font-family:arial;}
+#s3{font-weight:bold;font-family:arial; margin-left:346px;margin-top:77px;}
+#nodec{color:#000000; text-decoration:none;}
+a{ }
+</style>
+<script type="text/javascript">
+function vid()={
+//REFERNCE TO VIDEO
+	window.location.href('file:///C:/Users/jauhar%20pc/Desktop/html%20pages/land%20vid.html');
+}
+</script>
+</head>
+<body>
+<div id="s1">Ai zuwak ama tsu</div>
+<div id="s2">Nagano</div>
+<a id="nodec" href="file:///C:/Users/jauhar%20pc/Desktop/html%20pages/land%20vid.html"><div id="s3">Tok yo
+</div>
+</a>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head><title>land vid</title>
+<style type="text/css">
+h1{text-align:center;}
+body{ background-image:url("file:///C:/Users/jauhar%20pc/Downloads/japan.png");}
+#ret{font-weight:bold;font-family:arial;margin-left:348px; margin-top:5px;}
+#reth{text-decoration:none; color:#000000;}
+</style>
+</head>
+<body>
+<h1>LANDSLIDING IN THE SELECTED AREA</h1>
+<video autoplay="" loop>
+<source src="file:///C:/Users/jauhar%20pc/Downloads/Heavy_Land_Sliding_Caught_on_Camera.mp4" type="video/ogg">
+</video>
+<a id="reth" href="file:///C:/Users/jauhar%20pc/Desktop/html%20pages/japan.htm"><div id ="ret">Tokyo</div></a>
+</body>
+</html>
+
